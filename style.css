@@ -1,0 +1,65 @@
+table,th,td{
+	border: 2px solid white;
+	border-collapse:collapse;
+	width:auto;
+	margin:auto;
+    text-align:center;	
+}
+body{
+	background-color:black;
+	color:white;
+}
+.cm{
+	font-size:0.8cm;
+}
+.mm{
+	font-size:5mm;
+}
+.in{
+	font-size:0.2in;
+}
+.px{
+	font-size:25px;
+}
+.pt{
+	font-size:20pt;
+}
+.pc{
+	font-size:10;
+}
+.em{
+	font-size:20px;
+}
+span{
+	font-size:0.8em;
+}
+.ex{
+	font-size:20px;
+}
+.ex span{
+	font-size:1ex;
+}
+.ch{
+	font-size:2ch;
+}
+.rem{
+	font-size:1rem;
+}
+.vw{
+	font-size:1vw;
+}
+.vh{
+	font-size:5vh;
+}
+.vmin{
+	font-size:5vmin;
+}
+.vmax{
+	font-size:3vmax;
+}
+.percent{
+	font-size:100%;
+}
+
+
+	
